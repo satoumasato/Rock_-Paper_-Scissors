@@ -96,5 +96,3 @@ function again($result){
         return false;
     }
 }
-echo "更新したよ";
-main();
